@@ -24,5 +24,6 @@
       {!! Form::close() !!}
       </div>
    </div>
+   @include('hasil')
 </div>
 @endsection
